@@ -16,7 +16,12 @@ Syntax highlighted code block
 My favorite things about CS193:
 - meeting other CS majors
 - learning about terminal and other programming tools
-- only meets once a week (and PSO is optional)
+- only one lecture a week
+- PSO is optional
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
